@@ -1,0 +1,8 @@
+#myDiv :first-child{
+    color: red;
+}
+
+#myDiv :Last-child{
+    transform: transLateY(-100%);
+}
+
